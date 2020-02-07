@@ -1,1 +1,1 @@
-Hello git <edited version>
+Hello git
