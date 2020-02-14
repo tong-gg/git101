@@ -1,1 +1,1 @@
-Hello Git <new version>
+Hello Git <new version> edit in branch master
